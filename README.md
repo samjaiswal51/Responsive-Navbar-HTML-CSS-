@@ -26,6 +26,3 @@ This is a simple and elegant **Responsive Navigation Bar** mini project built wi
 - The navigation bar is styled using Flexbox for alignment.
 - Media queries handle responsiveness below `700px` screen width.
 - A hidden checkbox (`#click`) is used to toggle the mobile menu via CSS.
-
-## 📂 Project Structure
-
